@@ -1,1 +1,1 @@
-Save this file and put import it into your Anki Deck
+Flashcards that I used to pass Western Governors University C483 - Principles of Management
